@@ -1,0 +1,4 @@
+kernel = [1,2,3,4]
+for x in kernel :
+x+12= new number 
+print(new number)
